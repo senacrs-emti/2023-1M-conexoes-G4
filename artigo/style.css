@@ -16,7 +16,7 @@ article{
     text-align: center;
 }
 
-h1{
+#p1 h1{
     font-size: 36px;
     line-height: 68px;
     padding-left: 10%;
@@ -24,25 +24,25 @@ h1{
     margin-bottom: 153px;
 }
 
-h1 b span{
+#p1 h1 b span{
     font-size: 40px;
 }
 
-h2{
+#p1 h2{
     width: 100%;
     padding-right: 7.8%;
     font-size: 31px;
     margin-top: 38px;
 }
 
-h3{
+#p1 h3{
     margin-top: 13px;
     width: 100%;
     padding-right: 7.8%;
     font-size: 26px;
 }
 
-h4{
+#p1 h4{
     margin-top: 9px;
     width: 100%;
     padding-right: 7.8%;
@@ -50,36 +50,36 @@ h4{
     font-weight: 400;
 }
 
-h4 span{
+#p1 h4 span{
     font-weight: 500;
     font-size: 21px;
 }
 
-h5{
+#p1 h5{
     padding-left: 8%;
     margin-top: 125px;
     font-size: 23px;
     width: 100%;
 }
 
-h5:last-of-type{
+#p1 h5:last-of-type{
     margin-top: 80px;
     width: auto;
     float: left;
 }
 
-h5::first-letter{
+#p1 h5::first-letter{
     font-size: 27px;
 }
 
-p{
+#p1 p{
     padding-left: 8%;
     padding-right: 8%;
     font-size: 20px;
     float: left;
 }
 
-p:last-of-type{
+#p1 p:last-of-type{
     padding-left: 5px;
     margin-top: 83px;
 }
