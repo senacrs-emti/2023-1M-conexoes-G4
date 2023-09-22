@@ -1,0 +1,54 @@
+#cabeca{
+    height: 60px;
+    width: 100%;
+    background-color: rgb(50, 54, 57);
+    display: flex;
+}
+#menu{
+    font-size: 20px;
+    font-weight: 16px;
+    color: white;
+    margin-top: 18px;
+    margin-left: 20px;
+}
+#souza{
+    margin-top: 16px;
+    margin-left: 20px;
+    color: white;
+}
+#linda{
+    color: white;
+    background-color: black;
+    width: 20px;
+    height: 23px;
+    margin-top: 18px;
+    margin-left: 300px;
+}
+#um{
+    color: white;
+    width: 15px;
+    height: 14px;
+    margin-top: 20px;
+}
+#inter{
+    margin-top: 18px;
+    margin-left: 20px;
+    color: gray;
+}
+#dois{
+    font-size: 20px;
+    font-weight: 50px;
+    color: white;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+#uvas{
+    font-size: 20px;
+    height: 23px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    
+}
+
+
