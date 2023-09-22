@@ -1,23 +1,94 @@
 article{
-    height: 12000px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
     width: 100%;
     background-color: #525659;
-    padding-top: 20px;
+    padding-top: 60px;
 }
 #p1{
     background-color: #7030a0;
-    height: 1200px;
-    width: 88%;
-    margin-left: 6%;
+    height: 1650px;
+    width: 94%;
+    margin-left: 3%;
     box-shadow: 0px 0px 7px black;
     color: white;
+    padding-top: 130px;
+    text-align: center;
+}
+
+h1{
+    font-size: 36px;
+    line-height: 68px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 153px;
+}
+
+h1 b span{
+    font-size: 40px;
+}
+
+h2{
+    width: 100%;
+    padding-right: 7.8%;
+    font-size: 31px;
+    margin-top: 38px;
+}
+
+h3{
+    margin-top: 13px;
+    width: 100%;
+    padding-right: 7.8%;
+    font-size: 26px;
+}
+
+h4{
+    margin-top: 9px;
+    width: 100%;
+    padding-right: 7.8%;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+h4 span{
+    font-weight: 500;
+    font-size: 21px;
+}
+
+h5{
+    padding-left: 8%;
+    margin-top: 125px;
+    font-size: 23px;
+    width: 100%;
+}
+
+h5:last-of-type{
+    margin-top: 80px;
+    width: auto;
+    float: left;
+}
+
+h5::first-letter{
+    font-size: 27px;
+}
+
+p{
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: 20px;
+    float: left;
+}
+
+p:last-of-type{
+    padding-left: 5px;
+    margin-top: 83px;
 }
 
 .outros{
-    width: 88%;
+    width: 94%;
     background-color: white;
-    height: 1200px;
-    margin-left: 6%;
+    height: 1650px;
+    margin-left: 3%;
     margin-top: 20px;
     box-shadow: 0px 0px 7px black;
     color: black;
