@@ -79,5 +79,20 @@
 }
 #dow{
     color: white;
-    margin-left: ;
+    margin-left: 300px;
+    font-size: 15;
+    margin-top: 19px;
+
+}
+#fafa{
+    color: white;
+    font-size: 15px;
+    margin-top: 21px;
+    margin-left: 20px;
+}
+#life{
+    color: white;
+    font-size: 15px;
+    margin-top: 21px;
+    margin-left: 20px;
 }
